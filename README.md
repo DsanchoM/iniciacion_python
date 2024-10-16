@@ -1,4 +1,4 @@
-# EJERCICIOS BÁSICOS PTHON 🐍  
+# EJERCICIOS BÁSICOS PYTHON 🐍  
 ## VARIABLES, EXPRESIONES Y DECLARACIONES
 ### EJERCICIO 1: Escribe un programa que use input para pedirle a un usuario su nombre y luego le de la bienvenida.
 ### EJERCICIO 2: Escribe un programa para pedirle al usuario las horas y la tarifa por hora para calcular el pago bruto.
