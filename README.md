@@ -34,6 +34,7 @@ Error, please enter numeric input
 ## FUNCIONES
 ### EJERCICIO 8: Reescribe su cálculo de pago (EJERCICIO 2) con tiempo y medio para horas extras y crea una función llamada "computepay" que tome dos parámetros ("hours" y "rate").
 ### EJERCICIO 9: Reescribe el programa de calificación del capítulo anterior (EJERCICIO 7) utilizando una función llamada "computegrade" que tome una puntuación como parámetro y devuelva una nota como una cadena.
+## BUCLES
 ### EJERCICIO 10: Escribe un programa que lea números repetidamente hasta que el usuario ingrese "listo". Una vez que se ingrese "listo", imprima el total, el recuento y el promedio de los números. Si el usuario ingresa algo que no sea un número, detecta su error usando "try" y "except" e imprime un mensaje de error y salta al siguiente número. Ejemplo de ejecución: 
 Enter a number: 4  
 Enter a number: 5  
